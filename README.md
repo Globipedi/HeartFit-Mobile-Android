@@ -36,4 +36,4 @@ HeartFit Fitness projesinin kaynak kodlarına ve geliştirme sürecine GitHub ü
 --- 
 ![](https://raw.githubusercontent.com/Globipedi/HeartFit-Website/main/instagram-post/Uygulama/gonderi6.png)
 
-[GitHub Repository: HeartFit Fitness](https://github.com/Globipedi/HeartFit)
+[GitHub Repository: HeartFit Fitness](https://github.com/Globipedi/HeartFit-Mobile-Android)
