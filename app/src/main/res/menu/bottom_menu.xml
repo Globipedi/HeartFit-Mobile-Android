@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_home"
+        android:title="Ana Sayfa"
+        android:icon="@drawable/baseline_fitness_center_24"/>
+
+    <item
+        android:id="@+id/bottom_tips"
+        android:title="Fitness Blog"
+        android:icon="@drawable/baseline_gym"/>
+
+
+    <item
+        android:id="@+id/bottom_account"
+        android:title="Hesabım"
+        android:icon="@drawable/baseline_account_circle_24"/>
+
+</menu>

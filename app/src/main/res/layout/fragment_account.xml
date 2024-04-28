@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AccountFragment"
+    android:background="@color/back"
+    android:orientation="vertical">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_margin="8dp">
+
+            <ImageView
+                android:layout_marginTop="45dp"
+                android:layout_marginRight="5dp"
+                android:layout_gravity="right"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/settingsgear"/>
+            <ImageView
+                android:layout_marginTop="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:src="@drawable/profilepic"/>
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Fırat KAAN"
+                android:textColor="@color/username"
+                android:textStyle="bold"
+                android:textSize="21sp"/>
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="firat_kaan@globipedi.com"
+                android:textColor="#676767"
+                android:textStyle="bold"
+                android:textSize="13sp"/>
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_margin="5dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_margin="5dp"
+            android:weightSum="1">
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Yaş: 26"
+                android:textColor="@color/black"></Button>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kilo: 82 Kg"
+                android:textColor="@color/black"
+                android:layout_marginLeft="5dp"></Button>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Boy: 184"
+                android:textColor="@color/black"
+                android:layout_marginLeft="5dp"></Button>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="BMI: 24,2"
+                android:textColor="@color/black"
+                android:layout_marginLeft="5dp"></Button>
+            </LinearLayout>
+            </HorizontalScrollView>
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/profilegoals"
+                android:adjustViewBounds="true"
+                android:cropToPadding="false"
+                android:scaleType="fitXY"
+                android:layout_marginTop="5dp"/>
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_margin="5dp">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_margin="5dp"
+                    android:weightSum="1">
+                    <Button
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Verilerim"
+                        android:textColor="@color/black"></Button>
+                    <Button
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Hakkımızda"
+                        android:textColor="@color/black"
+                        android:layout_marginLeft="5dp"></Button>
+                    <Button
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="İletişim"
+                        android:textColor="@color/black"
+                        android:layout_marginLeft="5dp"></Button>
+                    <Button
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Gizlilik Hakkında"
+                        android:textColor="@color/black"
+                        android:layout_marginLeft="5dp"></Button>
+                </LinearLayout>
+            </HorizontalScrollView>
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="HEARTFIT uygulaması GLOBIPEDI® 'e aittir."
+                android:textColor="#676767"
+                android:textStyle="bold"
+                android:textSize="13sp"
+                android:layout_marginBottom="110dp"/>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

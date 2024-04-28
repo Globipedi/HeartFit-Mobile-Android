@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750543170702",
+    "project_id": "heartfit-acfa5",
+    "storage_bucket": "heartfit-acfa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750543170702:android:80acede7991be9b8adeddf",
+        "android_client_info": {
+          "package_name": "com.globipedi.heartfit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWMLH0G8oruB_R1EBGHoziLWFmkeLg4Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

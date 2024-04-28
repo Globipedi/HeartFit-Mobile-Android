@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#f0b412</color>
+    <color name="gray">#8A8A8A</color>
+    <color name="back">#FFFFFF</color>
+    <color name="textfield">#EAEAEA</color>
+    <color name="username">#000000</color>
+    <color name="icons">#0C0C0C</color>
+    <color name="navbar">#EAEAEA</color>
+</resources>
