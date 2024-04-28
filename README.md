@@ -25,15 +25,15 @@ HeartFit Fitness projesi, modern web teknolojileri ve mobil uygulama geliştirme
 HeartFit Fitness projesinin kaynak kodlarına ve geliştirme sürecine GitHub üzerinden erişebilirsiniz. Proje, açık kaynaklı bir şekilde yayınlanmıştır ve katkıda bulunmak veya projeyi özelleştirmek isteyen herkes tarafından kullanılabilir.
 
 # Android - APK
-![]([https://github.com/Globipedi/HeartFit/blob/main/instagram-post/Web%20Sitesi/gonderiweb1.png?raw=true](https://github.com/Globipedi/HeartFit-Website/blob/main/instagram-post/Uygulama/gonderi1.png?raw=true))
+![](https://raw.githubusercontent.com/Globipedi/HeartFit-Website/main/instagram-post/Uygulama/gonderi1.png)
 
 --- 
-![]([https://github.com/Globipedi/HeartFit/blob/main/instagram-post/Web%20Sitesi/iPad.png?raw=true](https://github.com/Globipedi/HeartFit-Website/blob/main/instagram-post/Uygulama/gonderi2.png?raw=true))
+![](https://raw.githubusercontent.com/Globipedi/HeartFit-Website/main/instagram-post/Uygulama/gonderi2.png)
 --- 
-![]([https://github.com/Globipedi/HeartFit/blob/main/instagram-post/Web%20Sitesi/iPad.png?raw=true](https://github.com/Globipedi/HeartFit-Website/blob/main/instagram-post/Uygulama/gonderi3.png?raw=true))
+![](https://raw.githubusercontent.com/Globipedi/HeartFit-Website/main/instagram-post/Uygulama/gonderi3.png)
 --- 
-![]([https://github.com/Globipedi/HeartFit/blob/main/instagram-post/Web%20Sitesi/iPad.png?raw=true](https://github.com/Globipedi/HeartFit-Website/blob/main/instagram-post/Uygulama/gonderi4.png?raw=true))
+![](https://raw.githubusercontent.com/Globipedi/HeartFit-Website/main/instagram-post/Uygulama/gonderi4.png)
 --- 
-![]([https://github.com/Globipedi/HeartFit/blob/main/instagram-post/Web%20Sitesi/iPad.png?raw=true](https://github.com/Globipedi/HeartFit-Website/blob/main/instagram-post/Uygulama/gonderi6.png?raw=true))
+![](https://raw.githubusercontent.com/Globipedi/HeartFit-Website/main/instagram-post/Uygulama/gonderi6.png)
 
 [GitHub Repository: HeartFit Fitness](https://github.com/Globipedi/HeartFit)
